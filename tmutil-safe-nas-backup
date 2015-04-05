@@ -2,6 +2,8 @@
 # Author: http://brablc.com/
 # Repo:   https://github.com/brablc/clit/blob/master/tmutil-safe-nas-backup
 #
+# practice forking github project on mac by RoseCityCenter (hjf 20150404-2030)
+#
 # Requirements: NoSleepCtrl from http://code.google.com/p/macosx-nosleep-extension/issues/detail?id=28#c8 - take Volanins built (see the issue)
 
 function tmrunning() {
